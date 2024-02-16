@@ -1,0 +1,14 @@
+C:\Stanislav9a\Arrays With Commands\bin\Debug\net8.0\Arrays With Commands.exe
+C:\Stanislav9a\Arrays With Commands\bin\Debug\net8.0\Arrays With Commands.deps.json
+C:\Stanislav9a\Arrays With Commands\bin\Debug\net8.0\Arrays With Commands.runtimeconfig.json
+C:\Stanislav9a\Arrays With Commands\bin\Debug\net8.0\Arrays With Commands.dll
+C:\Stanislav9a\Arrays With Commands\bin\Debug\net8.0\Arrays With Commands.pdb
+C:\Stanislav9a\Arrays With Commands\obj\Debug\net8.0\Arrays With Commands.GeneratedMSBuildEditorConfig.editorconfig
+C:\Stanislav9a\Arrays With Commands\obj\Debug\net8.0\Arrays With Commands.AssemblyInfoInputs.cache
+C:\Stanislav9a\Arrays With Commands\obj\Debug\net8.0\Arrays With Commands.AssemblyInfo.cs
+C:\Stanislav9a\Arrays With Commands\obj\Debug\net8.0\Arrays With Commands.csproj.CoreCompileInputs.cache
+C:\Stanislav9a\Arrays With Commands\obj\Debug\net8.0\Arrays With Commands.dll
+C:\Stanislav9a\Arrays With Commands\obj\Debug\net8.0\refint\Arrays With Commands.dll
+C:\Stanislav9a\Arrays With Commands\obj\Debug\net8.0\Arrays With Commands.pdb
+C:\Stanislav9a\Arrays With Commands\obj\Debug\net8.0\Arrays With Commands.genruntimeconfig.cache
+C:\Stanislav9a\Arrays With Commands\obj\Debug\net8.0\ref\Arrays With Commands.dll
